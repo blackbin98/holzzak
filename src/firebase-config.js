@@ -1,9 +1,10 @@
 export const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-  databaseURL: "https://YOUR_PROJECT_ID-default-rtdb.firebaseio.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT_ID.appspot.com",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyA_...",
+  authDomain: "holzzak-8bcf7.firebaseapp.com",
+  databaseURL: "https://holzzak-8bcf7-default-rtdb.firebaseio.com",
+  projectId: "holzzak-8bcf7",
+  storageBucket: "holzzak-8bcf7.firebasestorage.app",
+  messagingSenderId: "122240882256",
+  appId: "1:122240882256:web:868893a18574f3898d2355",
+  measurementId: "G-E5K65JS217"
 };
